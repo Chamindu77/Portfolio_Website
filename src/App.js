@@ -51,13 +51,13 @@ function App() {
             <Hero />
             <Wrapper>
               <Skills/>
-              <Experience/>
             </Wrapper>
             <Wrapper>
               <Projects/>
             </Wrapper>
             <Wrapper>
               <Education/>
+              <Experience/>
               <Contact/>
             </Wrapper>
             <Footer/>
