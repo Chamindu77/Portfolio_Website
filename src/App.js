@@ -11,6 +11,8 @@ import StarCanvas from "./components/canvas/Stars";
 import Projects from './components/sections/Projects';
 import Contact from './components/sections/Contact';
 import Footer from './components/sections/Footer';
+import {Helmet} from "react-helmet";
+
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -42,33 +44,40 @@ const StyledButton = styled.button`
 
 function App() {
   return (
-    <ThemeProvider theme={darkTheme}>
-      <BrowserRouter>
-        <Navbar />
-        <Body>
-          <StarCanvas />
-          <div>
-            <Hero />
-            <Wrapper>
-              <Skills />
-            </Wrapper>
-            <Wrapper>
-              <Projects />
-            </Wrapper>
-            <Wrapper>
-              <Education />
-            </Wrapper>
-            <Wrapper>
-              <Experience />
-              <Contact />
-            </Wrapper>
-            <Footer />
-          </div>
-        </Body>
+    <div className="application">
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Chamindu Nipun</title>
+        <link rel="canonical" href="http://mysite.com/example" />
+      </Helmet>
+      <ThemeProvider theme={darkTheme}>
+        <BrowserRouter>
+          <Navbar />
+          <Body>
+            <StarCanvas />
+            <div>
+              <Hero />
+              <Wrapper>
+                <Skills />
+              </Wrapper>
+              <Wrapper>
+                <Projects />
+              </Wrapper>
+              <Wrapper>
+                <Education />
+              </Wrapper>
+              <Wrapper>
+                <Experience />
+                <Contact />
+              </Wrapper>
+              <Footer />
+            </div>
+          </Body>
 
 
-      </BrowserRouter>
-    </ThemeProvider>
+        </BrowserRouter>
+      </ThemeProvider>
+    </div>
   );
 }
 
