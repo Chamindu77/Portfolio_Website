@@ -46,23 +46,23 @@ function App() {
       <BrowserRouter>
         <Navbar />
         <Body>
-          <StarCanvas/>
+          <StarCanvas />
           <div>
             <Hero />
             <Wrapper>
-              <Skills/>
+              <Skills />
             </Wrapper>
             <Wrapper>
-              <Projects/>
+              <Projects />
             </Wrapper>
             <Wrapper>
-              <Education/>
+              <Education />
             </Wrapper>
             <Wrapper>
-            <Experience/>
-              <Contact/>
+              <Experience />
+              <Contact />
             </Wrapper>
-            <Footer/>
+            <Footer />
           </div>
         </Body>
 
