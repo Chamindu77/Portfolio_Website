@@ -57,7 +57,9 @@ function App() {
             </Wrapper>
             <Wrapper>
               <Education/>
-              <Experience/>
+            </Wrapper>
+            <Wrapper>
+            <Experience/>
               <Contact/>
             </Wrapper>
             <Footer/>
