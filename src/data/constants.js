@@ -11,7 +11,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Chamindu77",
   resume:
-  "https://drive.google.com/file/d/1EnUwrtYVm9c-cqJzqvwy5y9mz5Z-cwpu/view?usp=drive_link",
+    "https://drive.google.com/file/d/1EnUwrtYVm9c-cqJzqvwy5y9mz5Z-cwpu/view?usp=sharing ",
   linkedin: "https://www.linkedin.com/in/chamindu-nipun",
   twitter: "https://twitter.com/CN_Munasinghe",
   insta: "",
@@ -267,11 +267,11 @@ export const projects = [
       "This project is an online platform that serves as a marketplace for local crop producers to connect with consumers and facilitate the delivery of fresh produce. It aims to support local farmers by providing them with a platform to sell their crops directly to consumers while also offering a convenient way for users to purchase fresh, locally sourced produce. ",
     image:
       "https://substack-post-media.s3.amazonaws.com/public/images/dc9fb848-a3fa-4c9b-9989-ab84d38e161a_1201x712.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Bootstrap","Axios","JWT ","Bcrypt.js","Multer"],
+    tags: ["React Js", "MongoDb", "Node Js", "JWT", "Bootstrap","Axios","Express Js ","Bcrypt.js"],
     category: "web app",
     github: "https://github.com/Chamindu77/CropMaeketplace",
     //webapp: "https://podstream.netlify.app/",
-    member: [
+    /*member: [
       {
         name: "Chamindu Niputtps://n",
         img: "https://drive.google.com/file/d/1_Iy3qN-Rx2toJoPunQTR0ZmZs-_sn9Om/view?usp=drive_link",
@@ -284,7 +284,7 @@ export const projects = [
         linkedin: "linkedin.com/in/vindyanikach",
         github: "https://github.com/Vindyani1999",
       },
-    ],
+    ],*/
   },
   {
     id: 1,
@@ -320,7 +320,7 @@ export const projects = [
     category: "machine learning",
     github: "https://github.com/Chamindu77/Loan_Status_Prediction?tab=readme-ov-file#loan-status-prediction",
     //webapp: "https://brain-tumor.netlify.app/",
-    member: [
+    /*member: [
       {
         name: "Chamindu Niputtps://n",
         img: "https://drive.google.com/file/d/1_Iy3qN-Rx2toJoPunQTR0ZmZs-_sn9Om/view?usp=drive_link",
@@ -333,7 +333,7 @@ export const projects = [
         linkedin: "linkedin.com/in/vindyanikach",
         github: "https://github.com/Vindyani1999",
       },
-    ],
+    ],*/
   },
   {
     id: 5,
@@ -382,7 +382,7 @@ export const projects = [
     description:
       "This project is a simple fruit shop application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to browse through various fruits, add them to their cart, and place orders.",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT52vgISqpF1IAJNz7xHDh9vCKGvTN9ZP0Tlg&usqp=CAU",
+      "https://t3.ftcdn.net/jpg/01/31/98/00/360_F_131980014_2sV0fUKEbsbRMsn9tEn4ZLXv17JRv9qo.jpg ",
     tags: ["React.js", "Node.js", "Axios","Express.js","MongoDB","Bootstrap","JWT","Bcrypt.js"],
     category: "web app",
     github: "https://github.com/Chamindu77/FruitsExpress-E-commerce_Website",
