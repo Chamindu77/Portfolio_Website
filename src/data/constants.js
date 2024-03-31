@@ -11,7 +11,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Chamindu77",
   resume:
-    "https://drive.google.com/file/d/1EnUwrtYVm9c-cqJzqvwy5y9mz5Z-cwpu/view?usp=sharing ",
+    "https://www.linkedin.com/in/chamindu-nipun",
   linkedin: "https://www.linkedin.com/in/chamindu-nipun",
   twitter: "https://twitter.com/CN_Munasinghe",
   insta: "",
@@ -232,7 +232,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://thumbs.dreamstime.com/b/education-logo-concept-graduation-cap-open-book-pages-transparency-flattened-education-logo-concept-graduation-104378681.jpg",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp22Eolx0_YlaZ4v8taw9UzBxDIadx0PQmyrb9lcTLWg&s",
     school: "H / Beralihela K. V.",
     date: "Jan 2004 - Dec 2015",
     //grade: "92.3%",

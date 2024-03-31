@@ -143,7 +143,7 @@ const ResumeButton = styled.a`
   text-decoration: none;
 
   width: 95%;
-  max-width: 300px;
+  max-width: 250px;
   text-align: center;
   padding: 16px 0;
 
@@ -223,46 +223,46 @@ const HeroBg = styled.div`
 
 
 const Hero = () => {
-    return (
-        <div id="aboout"> 
-        <HeroContainer>
+  return (
+    <div id="aboout">
+      <HeroContainer>
         <HeroBg>
           <StarCanvas />
           <HeroBgAnimation />
         </HeroBg>
-            <HeroInnerContainer>
-                <HeroLeftContainer>
-                <Title>
-                  Hi, I am <br /> {Bio.name}
-                </Title>
-                <TextLoop>
-                  I am a
-                  <Span>
-                    <Typewriter
-                      options={{
-                        strings: Bio.roles,
-                        autoStart: true,
-                        loop: true,
-                      }}
-                    />
-                  </Span>
-                </TextLoop>
-                <SubTitle>{Bio.description}</SubTitle>
-                <ResumeButton href={Bio.resume} target="_blank">
-                Check Resume
-              </ResumeButton>
-                </HeroLeftContainer>
-                <HeroRightContainer>
-                <motion.div {...headContentAnimation}>
-                <Tilt>
-                  <Img src={HeroImg} alt="Rishav Chanda" />
-                </Tilt>
-              </motion.div>
-                </HeroRightContainer>
-            </HeroInnerContainer>
-        </HeroContainer>
-        </div>
-    );
+        <HeroInnerContainer>
+          <HeroLeftContainer>
+            <Title>
+              Hi, I am <br /> {Bio.name}
+            </Title>
+            <TextLoop>
+              I am a
+              <Span>
+                <Typewriter
+                  options={{
+                    strings: Bio.roles,
+                    autoStart: true,
+                    loop: true,
+                  }}
+                />
+              </Span>
+            </TextLoop>
+            <SubTitle>{Bio.description}</SubTitle>
+            <ResumeButton href={Bio.resume} target="_blank">
+              Linkedin Profile
+            </ResumeButton>
+          </HeroLeftContainer>
+          <HeroRightContainer>
+            <motion.div {...headContentAnimation}>
+              <Tilt>
+                <Img src={HeroImg} alt="Rishav Chanda" />
+              </Tilt>
+            </motion.div>
+          </HeroRightContainer>
+        </HeroInnerContainer>
+      </HeroContainer>
+    </div>
+  );
 };
 
 export default Hero;
