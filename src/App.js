@@ -58,6 +58,10 @@ function App() {
             <div>
               <Hero />
               <Wrapper>
+                <Experience />
+                
+              </Wrapper>
+              <Wrapper>
                 <Skills />
               </Wrapper>
               <Wrapper>
@@ -67,7 +71,7 @@ function App() {
                 <Education />
               </Wrapper>
               <Wrapper>
-                <Experience />
+                
                 <Contact />
               </Wrapper>
               <Footer />

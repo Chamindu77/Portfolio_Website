@@ -146,6 +146,7 @@ const ExperienceCard = ({ experience }) => {
             </Skills>
           </>
         )}
+      
       </Description>
     </VerticalTimelineElement>
   );

@@ -115,26 +115,46 @@ const Projects = ({ openModal, setOpenModal }) => {
             ALL
           </ToggleButton>
           <Divider />
+
           <ToggleButton
-            active={toggle === "web app"}
-            onClick={() => setToggle("web app")}
+            active={toggle === "Web Application"}
+            onClick={() => setToggle("Web Application")}
           >
-            WEB APP"S
+            WEB APPLICATIONS
           </ToggleButton>
           <Divider />
+
           <ToggleButton
-            active={toggle === "android app"}
-            onClick={() => setToggle("android app")}
+            active={toggle === "Artificial Intelligence"}
+            onClick={() => setToggle("Artificial Intelligence")}
           >
-            ANDROID APP'S
+            ARTIFICIAL INTELLIGENCE
           </ToggleButton>
           <Divider />
+
           <ToggleButton
-            active={toggle === "machine learning"}
-            onClick={() => setToggle("machine learning")}
+            active={toggle === "Machine Learning"}
+            onClick={() => setToggle("Machine Learning")}
           >
-            AI & MACHINE LEARNING
+            ML / DATA SCIENCE            
           </ToggleButton>
+          <Divider />
+
+          <ToggleButton
+            active={toggle === "Computer Vision"}
+            onClick={() => setToggle("Computer Vision")}
+          >
+            COMPUTER VISION
+          </ToggleButton>
+          <Divider />
+          
+          <ToggleButton
+            active={toggle === "Mobile Application"}
+            onClick={() => setToggle("Mobile Application")}
+          >
+            MOBILE APPLICATIONS
+          </ToggleButton>
+          
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === "all" &&
