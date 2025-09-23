@@ -120,7 +120,7 @@ const Projects = ({ openModal, setOpenModal }) => {
             active={toggle === "Web Application"}
             onClick={() => setToggle("Web Application")}
           >
-            WEB APPLICATIONS
+            WEB
           </ToggleButton>
           <Divider />
 
@@ -128,7 +128,7 @@ const Projects = ({ openModal, setOpenModal }) => {
             active={toggle === "AI / ML / Data Science"}
             onClick={() => setToggle("AI / ML / Data Science")}
           >
-            AI / ML / DATA SCIENCE            
+            AI / ML            
           </ToggleButton>
           <Divider />
           
@@ -136,7 +136,7 @@ const Projects = ({ openModal, setOpenModal }) => {
             active={toggle === "Mobile Application"}
             onClick={() => setToggle("Mobile Application")}
           >
-            MOBILE APPS
+            MOBILE
           </ToggleButton>
           
         </ToggleButtonGroup>
