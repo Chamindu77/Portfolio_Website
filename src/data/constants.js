@@ -460,10 +460,10 @@ export const projects = [
     //webapp: "https://vexa-app.netlify.app/",
   },
 
-    {
+  {
     id: 2,
     title: "Customer Churn Prediction",
-    date: "I Lab Company Task|",
+    date: "I Lab Company Task",
     description:
       "Developed a machine learning model to predict customer churn, applying data preprocessing, training, and tuning to improve retention strategies.",
     image:
@@ -577,7 +577,19 @@ export const projects = [
     //webapp: "https://breaking-bad-webapp.netlify.app",
   },
 
-  
+  {
+    id: 2,
+    title: " Automate Machine Learning Model Training Web Application",
+    date: "ML / Data Science - Individual Project",
+    description:
+      " Developed a no-code web application using Streamlit to automate machine learning model training, including data preprocessing, model selection, training, evaluation.",
+    image:
+      "https://res.cloudinary.com/dsnzmaddw/image/upload/v1758610779/07dfdded-b82a-4c21-ba24-6bb561b9a4d9.png",
+    tags: [ "Python", "Streamlit", "Scikit-Learn", "Pandas", "XGBoost" , "Pandas"],
+    category: "Machine Learning", 
+    github: "https://github.com/Chamindu77/Automate_Machine_Learning_Model_Training_Web_Application",
+   
+  },
   
   {
     id: 3,
