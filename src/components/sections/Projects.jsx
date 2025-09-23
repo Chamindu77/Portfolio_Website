@@ -128,7 +128,7 @@ const Projects = ({ openModal, setOpenModal }) => {
             active={toggle === "Artificial Intelligence"}
             onClick={() => setToggle("Artificial Intelligence")}
           >
-            ARTIFICIAL INTELLIGENCE
+            AI
           </ToggleButton>
           <Divider />
 
@@ -136,7 +136,7 @@ const Projects = ({ openModal, setOpenModal }) => {
             active={toggle === "Machine Learning"}
             onClick={() => setToggle("Machine Learning")}
           >
-            ML / DATA SCIENCE            
+            ML/DATA SCIENCE            
           </ToggleButton>
           <Divider />
 
@@ -152,7 +152,7 @@ const Projects = ({ openModal, setOpenModal }) => {
             active={toggle === "Mobile Application"}
             onClick={() => setToggle("Mobile Application")}
           >
-            MOBILE APPLICATIONS
+            MOBILE APPS
           </ToggleButton>
           
         </ToggleButtonGroup>

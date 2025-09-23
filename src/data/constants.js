@@ -579,7 +579,7 @@ export const projects = [
 
   {
     id: 2,
-    title: " Automate Machine Learning Model Training Web Application",
+    title: " No Code ML Model Training",
     date: "ML / Data Science - Individual Project",
     description:
       " Developed a no-code web application using Streamlit to automate machine learning model training, including data preprocessing, model selection, training, evaluation.",
