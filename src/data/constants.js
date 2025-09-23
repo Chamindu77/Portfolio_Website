@@ -344,7 +344,7 @@ export const projects = [
        "ChromaDB",
        "MongoDB",
     ],
-    category: "Artificial Intelligence",
+    category: "AI / ML / Data Science",
     github: "",
     //webapp: "https://trackify.duckdns.org",
   },
@@ -398,7 +398,7 @@ export const projects = [
       "OpenCV",
       "YOLO",
     ],
-    category: "Computer Vision",
+    category: "AI / ML / Data Science",
     github: "https://github.com/Chamindu77/Anti_Spoofing-Liveliness_Detector",
     //webapp: "https://trackify.duckdns.org",
   },
@@ -411,7 +411,7 @@ export const projects = [
     image:
       "https://res.cloudinary.com/dsnzmaddw/image/upload/v1758350445/30fadffd-e3b9-45c7-9112-6c899a87f9ad.png",
     tags: ["Tableau", "MySQL"],
-    category: "Machine Learning",
+    category: "AI / ML / Data Science",
     github: "https://github.com/Chamindu77/Tableau_Project-Sales_Insights_for_AtliQ",
     
   },
@@ -455,7 +455,7 @@ export const projects = [
       "HuggingFace Transformers", 
       "Pandas"
     ],
-    category: "Artificial Intelligence",
+    category: "AI / ML / Data Science",
     github: "https://github.com/Chamindu77/Task-ChatBot",
     //webapp: "https://vexa-app.netlify.app/",
   },
@@ -469,7 +469,7 @@ export const projects = [
     image:
       "https://miro.medium.com/v2/resize:fit:1400/1*YEBB4XJvcabjp1vL37LLQQ.png",
     tags: ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],
-    category: "Machine Learning", 
+    category: "AI / ML / Data Science", 
     github: "https://github.com/Chamindu77/Customer_Churn_Prediction",
    
   },
@@ -487,7 +487,7 @@ export const projects = [
       "Gemini 1.5 flash",
       "FastAPI"
     ],
-    category: "Artificial Intelligence",
+    category: "AI / ML / Data Science",
     github: "https://github.com/Chamindu77/Resume-Analyzer-Prompt-vs-Finetune",
     //webapp: "https://vexa-app.netlify.app/",
   },
@@ -511,7 +511,7 @@ export const projects = [
       "Pandas",
       "NumPy",
     ],
-    category: "Computer Vision",
+    category: "AI / ML / Data Science",
     github: "https://github.com/Chamindu77/Traffic_Sign_Recognition",
     //webapp: "https://vexa-app.netlify.app/",
   },
@@ -525,7 +525,7 @@ export const projects = [
     image:
       "https://res.cloudinary.com/dsnzmaddw/image/upload/v1758510518/6d0a2ef7-6413-46c2-8cbe-5d56ae893aa3.png",
     tags: ["CrewAI", "Python", "GPT 3.5 Turbo"],
-    category: "Artificial Intelligence",
+    category: "AI / ML / Data Science",
     github: "https://github.com/Chamindu77/YouTube2Blog-AI_Agent",
     //github: "https://github.com/Chamindu77",
     //webapp: "https://breaking-bad-webapp.netlify.app",
@@ -542,7 +542,7 @@ export const projects = [
     image:
       "https://as1.ftcdn.net/v2/jpg/05/92/53/24/1000_F_592532454_F1RPqu4dfthF1bC5Yj0L1iqwnKHILCUh.jpg ",
     tags: ["Python", "TensorFlow", "Keras", "OpenCV", "Flask","SocketIO"],
-    category: "Computer Vision",
+    category: "AI / ML / Data Science",
     github: "https://github.com/Chamindu77/AI-Self-Driving-Simulation",
     //webapp: "https://rishav-react-todo.netlify.app/",
   },
@@ -556,7 +556,7 @@ export const projects = [
     image:
       "https://media.licdn.com/dms/image/D4D05AQEc12ZXcigzGQ/videocover-low/0/1683486316146?e=2147483647&v=beta&t=vGAsYx_wSZQQSyYRI0YLt5VkvX26Zo96pSUCbcz_JxA ",
     tags: ["Python", "OpenCV", "Gaussian Blur"],
-    category: "Computer Vision",
+    category: "AI / ML / Data Science",
     github: "https://github.com/Chamindu77/Vehicle_Counting_System",
     //github: "https://github.com/Chamindu77",
     //webapp: "https://breaking-bad-webapp.netlify.app",
@@ -571,7 +571,7 @@ export const projects = [
     image:
       "https://res.cloudinary.com/dsnzmaddw/image/upload/v1758510834/b0fa2282-85d5-479c-879f-84eb9180fcbb.png",
     tags: ["CrewAI", "Python", "Gemini 1.5 flash"],
-    category: "Artificial Intelligence",
+    category: "AI / ML / Data Science",
     github: "https://github.com/Chamindu77/News-AI-Agents",
     //github: "https://github.com/Chamindu77",
     //webapp: "https://breaking-bad-webapp.netlify.app",
@@ -586,7 +586,7 @@ export const projects = [
     image:
       "https://res.cloudinary.com/dsnzmaddw/image/upload/v1758610779/07dfdded-b82a-4c21-ba24-6bb561b9a4d9.png",
     tags: [ "Python", "Streamlit", "Scikit-Learn", "Pandas", "XGBoost" , "Pandas"],
-    category: "Machine Learning", 
+    category: "AI / ML / Data Science", 
     github: "https://github.com/Chamindu77/Automate_Machine_Learning_Model_Training_Web_Application",
    
   },
@@ -614,7 +614,7 @@ export const projects = [
     image:
       "https://miro.medium.com/v2/resize:fit:1358/1*ET-nAzkm_kxONk1eeG_5Lg.jpeg",
     tags: ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],
-    category: "Machine Learning",
+    category: "AI / ML / Data Science",
     github: "https://github.com/Chamindu77/Loan_Status_Prediction?tab=readme-ov-file#loan-status-prediction",
     
   },
@@ -628,7 +628,7 @@ export const projects = [
     image:
       "https://res.cloudinary.com/dsnzmaddw/image/upload/v1758353303/4fb57fb8-793c-4f06-84b9-d64667e56d5d.png",
     tags: ["Python", "PyTorch", "NLTK", "Flask","HTML/CSS/JavaScript","JSON"],
-    category: "Artificial Intelligence",
+    category: "AI / ML / Data Science",
     github: "https://github.com/Chamindu77/AgriMartBot-AI-Powered_Chatbot",
     //webapp: "https://whatsapp-clone-rishav.web.app",
   },
@@ -655,7 +655,7 @@ export const projects = [
     image:
       "https://res.cloudinary.com/dsnzmaddw/image/upload/v1758511590/86779d75-3e60-4de0-9da7-625253d0955f.png",
     tags: ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],
-    category: "Machine Learning",
+    category: "AI / ML / Data Science",
     github: "https://github.com/Chamindu77/TITANIC-Machine_Learning_from_Disaster",
     
   },
@@ -669,7 +669,7 @@ export const projects = [
     image:
       "https://res.cloudinary.com/dsnzmaddw/image/upload/v1758512111/edb2a59a-7dad-4d16-801d-a27715b7fc1e.png",
     tags: ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],
-    category: "Machine Learning",
+    category: "AI / ML / Data Science",
     github: "https://github.com/Chamindu77/Sweden_Household_Debt_Percentage_of_GDP",
     
   },  
@@ -683,7 +683,7 @@ export const projects = [
     image:
       "https://res.cloudinary.com/dsnzmaddw/image/upload/v1758511966/ffa4d952-969a-46b3-91ab-6ad3454fda7a.png",
     tags: ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],
-    category: "Machine Learning",
+    category: "AI / ML / Data Science",
     github: "https://github.com/Chamindu77/Srilanka_house_prices_prediction",
     
   },

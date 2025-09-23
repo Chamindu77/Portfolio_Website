@@ -125,26 +125,10 @@ const Projects = ({ openModal, setOpenModal }) => {
           <Divider />
 
           <ToggleButton
-            active={toggle === "Artificial Intelligence"}
-            onClick={() => setToggle("Artificial Intelligence")}
+            active={toggle === "AI / ML / Data Science"}
+            onClick={() => setToggle("AI / ML / Data Science")}
           >
-            AI
-          </ToggleButton>
-          <Divider />
-
-          <ToggleButton
-            active={toggle === "Machine Learning"}
-            onClick={() => setToggle("Machine Learning")}
-          >
-            ML/DATA SCIENCE            
-          </ToggleButton>
-          <Divider />
-
-          <ToggleButton
-            active={toggle === "Computer Vision"}
-            onClick={() => setToggle("Computer Vision")}
-          >
-            COMPUTER VISION
+            AI / ML / DATA SCIENCE            
           </ToggleButton>
           <Divider />
           
