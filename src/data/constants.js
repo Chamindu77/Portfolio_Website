@@ -404,15 +404,15 @@ export const projects = [
   },
   {
     id: 0,
-    title: "Interactive Sales Insights for AtliQ | Tableau",
-    date: "ML / Data Science - Individual Project",
+    title: "Sales & Customer Performance Dashboards (Tableau)",
+    date: "ML / Data Science - Course Project",
     description:
-      "Built interactive Tableau dashboards to deliver sales performance insights for AtliQ, highlighting revenue drivers, regional trends, product performance, and customer behavior for data driven decision making.",
+      "This project develops interactive Sales and Customer Performance Dashboards in Tableau, designed according to user requirements to deliver KPIs, trends, customer insights, and data-driven decision support.",
     image:
-      "https://res.cloudinary.com/dsnzmaddw/image/upload/v1758350445/30fadffd-e3b9-45c7-9112-6c899a87f9ad.png",
+      "https://res.cloudinary.com/dsnzmaddw/image/upload/v1758819292/639c5aa0-6d96-4bff-9c24-b86ab48dd66e.png",
     tags: ["Tableau", "MySQL"],
     category: "AI / ML / Data Science",
-    github: "https://github.com/Chamindu77/Tableau_Project-Sales_Insights_for_AtliQ",
+    github: "https://github.com/Chamindu77/Sales-and-Customer-Dashboards",
     
   },
 
@@ -590,19 +590,19 @@ export const projects = [
     github: "https://github.com/Chamindu77/Automate_Machine_Learning_Model_Training_Web_Application",
    
   },
-  
+
   {
-    id: 3,
-    title: "E - Learn Scool Android App",
-    date: "Mobile Application - Academic Project",
+    id: 0,
+    title: "Interactive Sales Insights for AtliQ | Tableau",
+    date: "ML / Data Science - Individual Project",
     description:
-      "Welcome to the E-School Learning Android App repository! This project aims to provide an enhanced learning experience for school students through a comprehensive Android application. With a focus on user-friendly design and seamless functionality, our app caters to both students and administrators, offering a platform that fosters efficient learning and management",
+      "Built interactive Tableau dashboards to deliver sales performance insights for AtliQ, highlighting revenue drivers, regional trends, product performance, and customer behavior for data driven decision making.",
     image:
-      "https://res.cloudinary.com/dsnzmaddw/image/upload/v1758354417/69e5ff34-c0d6-4315-92ff-3405db3289e4.png",
-    tags: ["Kotlin", "Firebase"],
-    category: "Mobile Application",
-    github: "https://github.com/Chamindu77/e-learn_school_app-AndroidApp",
-    //webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+      "https://res.cloudinary.com/dsnzmaddw/image/upload/v1758350445/30fadffd-e3b9-45c7-9112-6c899a87f9ad.png",
+    tags: ["Tableau", "MySQL"],
+    category: "AI / ML / Data Science",
+    github: "https://github.com/Chamindu77/Tableau_Project-Sales_Insights_for_AtliQ",
+    
   },
 
   {
@@ -618,6 +618,22 @@ export const projects = [
     github: "https://github.com/Chamindu77/Loan_Status_Prediction?tab=readme-ov-file#loan-status-prediction",
     
   },
+  
+  {
+    id: 3,
+    title: "E - Learn Scool Android App",
+    date: "Mobile Application - Academic Project",
+    description:
+      "Welcome to the E-School Learning Android App repository! This project aims to provide an enhanced learning experience for school students through a comprehensive Android application. With a focus on user-friendly design and seamless functionality, our app caters to both students and administrators, offering a platform that fosters efficient learning and management",
+    image:
+      "https://res.cloudinary.com/dsnzmaddw/image/upload/v1758354417/69e5ff34-c0d6-4315-92ff-3405db3289e4.png",
+    tags: ["Kotlin", "Firebase"],
+    category: "Mobile Application",
+    github: "https://github.com/Chamindu77/e-learn_school_app-AndroidApp",
+    //webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+  },
+
+  
   
   {
     id: 4,
